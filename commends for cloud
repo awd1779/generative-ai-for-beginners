@@ -1,2 +1,0 @@
-./llava -m ggml-model-q4_k.gguf  --mmproj mmproj-model-f16.gguf --image https://t4.ftcdn.net/jpg/03/84/55/29/360_F_384552930_zPoe9zgmCF7qgt8fqSedcyJ6C6Ye3dFs.jpg --temp 0.1 -p "tell me what you see in this image"
-
